@@ -1,0 +1,18 @@
+Step:1 Start                                         Swaping Two Variables
+Step:2 Input                                       Sub module: Exchange(a,b)
+Step:3 Exchange (a,b)                                  c=b
+Step:4 Stop                                                 b=a
+                                                                   a=c
+                                                                Print a,b
+                                                                Return
+together called Exchange Method.....
+
+Next Sum:
+1+2+3+4+5------n                                  Sub Module: Sum of n natural 
+Step:1 Start                                                               numbers
+Step:2 Input                                                          
+Step:3 x=sum of n module                                 Sum of n module
+           1+2+3+4+5------n                                   1+2+3+4+5------n
+Step:4 Print x                                                x=s=n*(n+1)/2
+Step:5 Stop                                                    Return s (or) x
+
